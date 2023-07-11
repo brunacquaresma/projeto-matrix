@@ -25,7 +25,6 @@ Clone este repositório em sua máquina local:
 git clone https://github.com/brunacquaresm/projeto-matrix.git  
 Navegue até o diretório do projeto:  
 
-Copy code
 cd projeto-matrix  
 Abra o arquivo index.html em seu navegador web.  
 ## Considerações finais
