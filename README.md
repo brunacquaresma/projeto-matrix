@@ -20,10 +20,10 @@ src/video/: Pasta que contém o vídeo do trailer.
 ## Como executar
 Para executar o projeto, siga as etapas abaixo:
 
-Clone este repositório em sua máquina local:
+Clone este repositório em sua máquina local:  
 git clone https://github.com/brunacquaresm/projeto-matrix.git  
-Navegue até o diretório do projeto:
-cd projeto-matrix
+Navegue até o diretório do projeto:  
+cd projeto-matrix  
 Abra o arquivo index.html em seu navegador web.  
 ## Considerações finais
 O projeto Matrix é uma página estática simples que exibe informações e um trailer do filme "Matrix". Ele demonstra o uso de HTML, CSS e JavaScript para criar uma interface interativa. Sinta-se à vontade para explorar e modificar o projeto de acordo com suas necessidades.
