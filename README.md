@@ -21,10 +21,10 @@ src/video/: Pasta que contém o vídeo do trailer.
 Para executar o projeto, siga as etapas abaixo:
 
 Clone este repositório em sua máquina local:
-shell
+
 git clone https://github.com/brunacquaresm/projeto-matrix.git  
 Navegue até o diretório do projeto:  
-shell
+
 Copy code
 cd projeto-matrix  
 Abra o arquivo index.html em seu navegador web.  
